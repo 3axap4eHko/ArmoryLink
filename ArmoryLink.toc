@@ -1,0 +1,24 @@
+## Interface: 100100
+## Title: Armory Link
+## Notes: Provides a World of Warcraft armory character link
+## Version: 0.3.2
+## Author: SpizyPie
+
+db/db_regions.lua
+db/db_realms.lua
+
+locale/locale.lua
+locale/enUS.lua
+locale/deDE.lua
+locale/esES.lua
+locale/frFR.lua
+locale/itIT.lua
+locale/koKR.lua
+locale/ptBR.lua
+locale/ruRU.lua
+locale/zhCN.lua
+locale/zhTW.lua
+
+libs\LibStub\LibStub.lua
+libs\LibDropDownExtension-1.0\LibDropDownExtension.lua
+ArmoryLink.lua
